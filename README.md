@@ -211,6 +211,8 @@ print_cluster(audit_cluster_df)
 
 ## 📊 4. Topic Modeling Results / Document Similarity Results
 ### 🔍 Topic Modeling Results:
+![image](https://github.com/user-attachments/assets/bca3deb3-faa4-4729-a059-54dc36e3b706)
+
 Based on the parameters provided, the following topics were extracted from the financial documents:
 
 **Topic #0: Equity, Shares, and Capital** 💰
@@ -244,6 +246,8 @@ Top Words: assets, value, depreciation, equipment, carrying, plant, etc.
 Interpretation: This topic focuses on the depreciation of assets, including equipment and plant, and the impact on company financials.
 
 ### 🔗 Document Similarity Results:
+![image](https://github.com/user-attachments/assets/3b81bd4e-89f8-4844-a0f8-39adb06bf35f)
+
 Using KMeans clustering and TF-IDF, documents were clustered into 10 distinct groups based on their similarities. Here's a detailed breakdown of each cluster:
 
 **Cluster 0: Equity and Investment** 📈
