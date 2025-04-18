@@ -1,4 +1,4 @@
-# 📊 Topic Modeling and Document Similarity Analysis for Financial Documents
+# 📊 Efficient Processing and Analysis of Financial Documents Using NLP
 
 ## 🎯 1. Data Selection Reason: Quick Processing of Financial Documents and Clusterization for Enhanced Efficiency
 In this project, we focused on financial accounting documents, aiming to quickly process and summarize these documents using NLP techniques. The ultimate goal is to improve workflow efficiency by leveraging clustering and topic modeling techniques. Financial documents often contain vast amounts of structured and unstructured data, and this project aims to automate the processing and analysis of such information.
